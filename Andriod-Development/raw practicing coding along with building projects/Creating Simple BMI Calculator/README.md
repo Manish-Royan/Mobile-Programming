@@ -322,7 +322,9 @@ This is my first Android application developed while learning Android Developmen
    ```
 
 4. Add CardView Dependency
-   ↳ Since we're using CardView, you need to add it to your build.gradle:
+
+    ↳ Since we're using CardView, you need to add it to your build.gradle:
+   
    Location: `app/build.gradle (Module level)`
     ➕ Add this inside the dependencies block:
    ```build.gradle.kts
@@ -473,8 +475,15 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ## 📸 Screenshots
+![Screenshot_2025-12-27-17-05-40-383_com example myfirstapp](https://github.com/user-attachments/assets/9b1a469f-6cc4-490e-a390-69c7f91e33ba)
 
-_Add screenshots of your app here once you take them_
+![IMG_20251227_180330](https://github.com/user-attachments/assets/37a2487d-8c5a-407c-9b5b-5956315a53d1)
+
+![IMG_20251227_180427](https://github.com/user-attachments/assets/2ecf7cbc-d6a8-4825-9fa5-4bac6ceb7a6c)
+
+![IMG_20251227_180447](https://github.com/user-attachments/assets/bf69c148-6f3d-45eb-8076-4af0b3b696b6)
+
+![IMG_20251227_180504](https://github.com/user-attachments/assets/2498301a-667e-48dc-94f6-69470dc951d0)
 
 ## 💡 What I Learned
 

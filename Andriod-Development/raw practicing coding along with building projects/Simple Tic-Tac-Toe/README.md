@@ -12,8 +12,7 @@ A simple and cute Tic-Tac-Toe game built with Java for Android. Perfect for begi
 
 ## 📸 Screenshots
 
-![Tic-Tac-Toe Game](screenshots/game_screenshot.png)
-*Add your screenshots here after taking them from the app*
+![MixCollage-01-Jan-2026-03-12-PM-4473](https://github.com/user-attachments/assets/b5e7e660-3c80-4592-9808-dcd46f590236)
 
 ## 🎮 How to Play
 
